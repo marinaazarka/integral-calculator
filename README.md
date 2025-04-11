@@ -13,4 +13,3 @@ if __name__ == "__main__":
     variable = "x"
     result = calculate_integral(expr, variable)
     print(f"Integral of {expr} with respect to {variable}: {result}")
-was
